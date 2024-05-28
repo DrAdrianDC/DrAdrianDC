@@ -10,7 +10,7 @@
 
 ## Skills 
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?) 
-![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?style=flat&logo=none&logoColor=white) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-005571?style=flat&logo=none&logoColor=white) ![Statistical Analysis](https://img.shields.io/badge/-Data%20Science-3776AB?style=flat&logo=none&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=none&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white) 
+![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?style=flat&logo=none&logoColor=white) ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-005571?style=flat&logo=none&logoColor=white) ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-3776AB?style=flat&logo=none&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=none&logoColor=white)  ![SQL](https://img.shields.io/badge/-SQL-000?style=flat&logo=postgresql&logoColor=white) 
   
   
   ![Pandas](https://img.shields.io/badge/-Pandas-150458?style=flat&logo=pandas&logoColor=white) 
