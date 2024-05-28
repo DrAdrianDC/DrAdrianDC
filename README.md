@@ -33,6 +33,11 @@
 
 
 
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=google&logoColor=white)
+- ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-005571?style=flat&logo=tableau&logoColor=white)
+- ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ffde57?style=flat&logo=tensorflow&logoColor=white)
+
+
 <!---
 DrAdrianDC/DrAdrianDC is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
