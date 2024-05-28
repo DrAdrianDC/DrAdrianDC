@@ -30,8 +30,6 @@
 - ![Communication](https://img.shields.io/badge/-Communication-008080?style=flat&logo=communication&logoColor=white) Excellent communication skills
 - ![Problem Solving](https://img.shields.io/badge/-Problem%20Solving-FFD700?style=flat&logo=lightbulb&logoColor=white) Strong problem-solving abilities
 
-For more details on my projects and expertise, please visit my [GitHub Portfolio](https://github.com/DrAdrianDC/Portfolio-for-Data-Science).
-
 
 
 
