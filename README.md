@@ -8,7 +8,7 @@
 - ⚡ Fun fact: Having grew up in Cuba, I have never dance salsa.
 
 
-## Skills
+## Skills 
 
 - ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) Proficient in Python
 - ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?style=flat&logo=c%2B%2B&logoColor=white) Skilled in C/C++
