@@ -27,8 +27,8 @@
 
 
 
-- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=google&logoColor=white)
-- ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-005571?style=flat&logo=tableau&logoColor=white)
+- ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=none&logoColor=white)
+- ![Data Analysis](https://img.shields.io/badge/-Data%20Analysis-005571?style=flat&logo=none&logoColor=white)
 - ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-ffde57?style=flat&logo=none&logoColor=white)
 
 
