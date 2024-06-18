@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @DrAdrianDC
 - 👀 I’m interested in AI/Machine Learning for real-world applications.
 - 🌱 I’m currently learning Quantitative analysis (QA) in finance and investing.
-- 💞️ I’m looking to collaborate on computational chemistry, data science and machine learning projects.
+- 💞️ I’m looking to collaborate on data science and machine learning projects.
 - 📫 How to reach me [https://www.linkedin.com/in/adrian-dominguez-castro](https://www.linkedin.com/in/adrian-dominguez-castro-44b51a221/)
 
 - 😄 Pronouns: he/him
