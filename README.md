@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @DrAdrianDC
 - 👀 I’m interested in AI/Machine Learning for real-world applications.
-- 🌱 I’m currently deepening my expertise in Artificial Intelligence (AI).
+- 🌱 I am enhancing my expertise in Artificial Intelligence (AI).
 - 💞️ I’m looking to collaborate on data science and machine learning projects.
 - 📫 How to reach me [https://www.linkedin.com/in/adrian-dominguez-castro](https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/)
 
