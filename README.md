@@ -2,7 +2,7 @@
 - 👀 I’m interested in AI/Machine Learning for real-world applications.
 - 🌱 I am enhancing my expertise in Artificial Intelligence (AI).
 - 💞️ I’m looking to collaborate on data science and machine learning projects.
-- 📫 How to reach me (https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/)
+- 📫 How to reach me [https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/]
 
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: Having grew up in Cuba, I have never dance salsa.
