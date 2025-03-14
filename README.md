@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @**DrAdrianDC**
 - 👀 I’m interested in AI/Machine Learning for real-world applications.
 - 🌱 I am enhancing my expertise in Artificial Intelligence (AI).
-- 💞️ I’m looking to collaborate on data science and machine learning projects.
+- 💞️ I’m looking to collaborate on Data Science and Machine Learning projects.
 - 📫 How to reach me [Linkedin](https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/)
 
 - 😄 Pronouns: he/him
