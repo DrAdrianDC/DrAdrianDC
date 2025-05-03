@@ -9,8 +9,8 @@
 
 
 ## Skills 
-![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=none&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-005571?style=flat&logo=none&logoColor=white)
-![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?style=flat&logo=none&logoColor=white)  ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-3776AB?style=flat&logo=none&logoColor=white)   ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
+ ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=none&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-005571?style=flat&logo=none&logoColor=white)
+![Data Science](https://img.shields.io/badge/-Data%20Science-3776AB?style=flat&logo=none&logoColor=white)  ![Statistical Analysis](https://img.shields.io/badge/-Statistical%20Analysis-3776AB?style=flat&logo=none&logoColor=white)  ![Python](https://img.shields.io/badge/-Python-3776AB?style=flat&logo=python&logoColor=white)  ![C++](https://img.shields.io/badge/-C%2B%2B-00599C?)  ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=flat&logo=docker&logoColor=white)
 
   
   
