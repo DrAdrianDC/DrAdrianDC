@@ -1,13 +1,36 @@
-- 👋 Hi, I’m @**DrAdrianDC**
-- 🎓 I hold a Ph.D. in Physics from the University of Bremen, Germany, with a strong foundation in **machine learning**, **data analysis**, **computational chemistry**, and **scientific programming**.
-- 👀 I’m interested in AI/Machine Learning and software development for real-world applications.
-- 🌱 I am enhancing my expertise in Artificial Intelligence (AI).
-- 💞️ I’m looking to collaborate on **Data Science and Machine Learning** projects.
-- 📫 How to reach me [Linkedin](https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/)
+# 👋 Hi, I’m Adrian Dominguez Castro, Ph.D.
 
-- 😄 Pronouns: he/him
-- ⚡ Fun fact: Having grew up in Cuba, I have never dance salsa.
+**Machine Learning Researcher | AI for Science**
 
+[cite_start]I am a **Machine Learning Researcher** specializing in bridging the gap between fundamental science and production-grade AI. [cite_start]With a **Ph.D. in Physics** and a background in **Computational Chemistry**, I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data[cite: 3, 26, 32].
+
+---
+
+### 🚀 Current Focus: AI for Science
+[cite_start]Through my independent practice, **ADC Scientific Consulting**, I architect end-to-end AI solutions for research organizations[cite: 8, 9]. 
+
+* [cite_start]**Selected Engagement:** **Decimal.health — Venture Studio (AccelerOnc Studio, Moffitt Cancer Center)**[cite: 10, 11].
+* [cite_start]**Architecting RAG Search Systems** to optimize discovery in clinical and scientific datasets[cite: 12].
+* [cite_start]**Developing Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion[cite: 13, 32].
+
+### 🛠️ Technical Stack
+* [cite_start]**AI & Machine Learning:** RAG, LLMs, LangGraph, Deep Learning, Statistics[cite: 32, 34, 35].
+* [cite_start]**Programming & HPC:** Python, C/C++, SQL, Linux & High-Performance Computing[cite: 31, 32].
+* [cite_start]**Scientific Computing:** Computational Chemistry, DFT, Molecular Modeling[cite: 15, 32].
+
+### 🎓 Background
+* **Postdoctoral Research Scientist** | [cite_start]Vanderbilt University, USA[cite: 14].
+* **Ph.D. in Physics (Dr. rer. nat.)** | [cite_start]University of Bremen, Germany[cite: 26, 29].
+* **B.Sc. in Radiochemistry** | [cite_start]InSTEC, University of Havana, Cuba[cite: 27, 29].
+
+---
+
+### 📬 Connect with me
+* [cite_start]**LinkedIn:** [adrian-dominguez-castro-phd](https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/) [cite: 2]
+* [cite_start]**Website:** [dradriandc.github.io](https://dradriandc.github.io/) [cite: 6]
+* [cite_start]**Research:** [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) [cite: 5]
+
+**⚡ Fun fact:** Having grown up in Cuba, I have never danced salsa. 
 
 ## Skills 
  ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=none&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-005571?style=flat&logo=none&logoColor=white)
