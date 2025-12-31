@@ -1,4 +1,4 @@
-# 👋 Hi, I’m Adrian Dominguez Castro, Ph.D.
+# 👋 Hi, I’m Adrian Dominguez-Castro, Ph.D.
 
 **Machine Learning Researcher | AI for Science**
 
