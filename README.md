@@ -2,26 +2,27 @@
 
 **Machine Learning Researcher | AI for Science**
 
-I am a **Machine Learning Researcher** specializing in bridging the gap between fundamental science and real-world applications. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data[cite: 3, 26, 32].
+I am a **Machine Learning Researcher** specializing in bridging the gap between fundamental science and real-world applications. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, and **Machine Learning**,  I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data.
 
 ---
 
 ### 🚀 Current Focus: AI for Science
-[cite_start]Through my independent practice, **ADC Scientific Consulting**, I architect end-to-end AI solutions for research organizations[cite: 8, 9]. 
+Through my independent practice, **ADC Scientific Consulting**, I architect end-to-end AI solutions for research organizations. 
 
-* [cite_start]**Selected Engagement:** **Decimal.health — Venture Studio (AccelerOnc Studio, Moffitt Cancer Center)**[cite: 10, 11].
-* [cite_start]**Architecting RAG Search Systems** to optimize discovery in clinical and scientific datasets[cite: 12].
-* [cite_start]**Developing Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion[cite: 13, 32].
+**Selected Engagement:** **Decimal.health — Venture Studio (AccelerOnc Studio, Moffitt Cancer Center)**:
+
+* **Architecting RAG Search Systems** to optimize discovery in clinical and scientific datasets.
+* **Developing Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion.
 
 ### 🛠️ Technical Stack
-* [cite_start]**AI & Machine Learning:** RAG, LLMs, LangGraph, Deep Learning, Statistics[cite: 32, 34, 35].
-* [cite_start]**Programming & HPC:** Python, C/C++, SQL, Linux & High-Performance Computing[cite: 31, 32].
-* [cite_start]**Scientific Computing:** Computational Chemistry, DFT, Molecular Modeling[cite: 15, 32].
+* **AI & Machine Learning:** RAG, LLMs, LangGraph, Deep Learning, Statistics.
+* **Programming & HPC:** Python, C/C++, Linux & High-Performance Computing.
+* **Scientific Modeling:** Computational Chemistry, DFT, DFTB, Molecular Dynamics.
 
 ### 🎓 Background
-* **Postdoctoral Research Scientist** | [cite_start]Vanderbilt University, USA[cite: 14].
-* **Ph.D. in Physics (Dr. rer. nat.)** | [cite_start]University of Bremen, Germany[cite: 26, 29].
-* **B.Sc. in Radiochemistry** | [cite_start]InSTEC, University of Havana, Cuba[cite: 27, 29].
+* **Postdoctoral Research Scientist** | Vanderbilt University, USA.
+* **Ph.D. in Physics (Dr. rer. nat.)** | University of Bremen, Germany.
+* **B.Sc. in Radiochemistry** | InSTEC, University of Havana, Cuba.
 
 ---
 
