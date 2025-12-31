@@ -11,8 +11,10 @@ Through my independent practice, **ADC Scientific Consulting**, I architect end-
 
 **Selected Engagement:** **Decimal.health — Venture Studio (AccelerOnc Studio, Moffitt Cancer Center)**:
 
-* **Architecting RAG Search Systems** to optimize discovery in clinical and scientific datasets.
-* **Developing Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion.
+* **Architected RAG Search Systems** to optimize discovery in clinical and scientific datasets, focusing on high-dimensional data retrieval.
+* **Engineered Robust Data Pipelines** that ensure data integrity for LLM-based discovery in complex medical and scientific domains.
+* **Developed Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion and scientific discovery processes.
+
 
 ### 🛠️ Technical Stack
 * **AI & Machine Learning:** RAG, LLMs, LangGraph, Deep Learning, Statistics.
