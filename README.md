@@ -30,7 +30,7 @@ Through my independent practice, **ADC Scientific Consulting**, I architect end-
 
 ### 📬 Connect with me
 * **LinkedIn:** [adrian-dominguez-castro-phd](https://www.linkedin.com/in/adrian-dominguez-castro-phd-44b51a221/) 
-* **Website:** [dradriandc.github.io](https://dradriandc.github.io/) 
+* **Website:** [dradriandc.github.io](https://dradriandc.github.io/dr-adriandc.github.io/)
 * **Research:** [Google Scholar](https://scholar.google.com/citations?user=YOUR_ID) 
 
 **⚡ Fun fact:** Having grown up in Cuba, I have never danced salsa. 
