@@ -17,7 +17,7 @@ Through my independent practice, **ADC Scientific Consulting**, I architect end-
 ### 🛠️ Technical Stack
 * **AI & Machine Learning:** RAG, LLMs, LangGraph, Deep Learning, Statistics.
 * **Programming & HPC:** Python, C/C++, Linux & High-Performance Computing.
-* **Scientific Modeling:** Computational Chemistry, DFT, DFTB, Molecular Dynamics.
+* **Computational Modeling:** Computational Chemistry, DFT, DFTB, Molecular Dynamics.
 
 ### 🎓 Background
 * **Postdoctoral Research Scientist** | Vanderbilt University, USA.
