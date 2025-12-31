@@ -2,7 +2,7 @@
 
 **Machine Learning Researcher | AI for Science**
 
-[cite_start]I am a **Machine Learning Researcher** specializing in bridging the gap between fundamental science and production-grade AI. [cite_start]With a **Ph.D. in Physics** and a background in **Computational Chemistry**, I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data[cite: 3, 26, 32].
+I am a **Machine Learning Researcher** specializing in bridging the gap between fundamental science and real-world applications. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data[cite: 3, 26, 32].
 
 ---
 
