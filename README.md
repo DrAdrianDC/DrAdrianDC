@@ -16,10 +16,10 @@ Through my independent practice, **ADC Scientific Consulting**, I architect end-
 * **Developed Agentic Workflows** using **LangGraph** to automate high-fidelity data ingestion and scientific discovery processes.
 
 
-### 🛠️ Technical Stack
-* **AI & Machine Learning:** RAG, LLMs, LangGraph, Deep Learning, Statistics.
-* **Programming & HPC:** Python, C/C++, Linux & High-Performance Computing.
-* **Computational Modeling:** Computational Chemistry, DFT, DFTB, Molecular Dynamics.
+<!-- ### 🛠️ Technical Stack -->
+<!-- * **AI & Machine Learning:** RAG, LLMs, LangGraph, Deep Learning, Statistics. -->
+<!-- * **Programming & HPC:** Python, C/C++, Linux & High-Performance Computing. -->
+<!-- * **Computational Modeling:** Computational Chemistry, DFT, DFTB, Molecular Dynamics. -->
 
 ### 🎓 Background
 * **Postdoctoral Research Scientist** | Vanderbilt University, USA.
