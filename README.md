@@ -40,7 +40,7 @@ Through my independent practice, **ADC Scientific Consulting**, I architect end-
 <!-- ### 🤖 AI & Agentic Orchestration -->
 ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-FF6F00?style=flat&logo=none&logoColor=white) ![Deep Learning](https://img.shields.io/badge/-Deep%20Learning-005571?style=flat&logo=none&logoColor=white) ![LLMs](https://img.shields.io/badge/-LLMs-3776AB?style=flat&logo=openai&logoColor=white) ![RAG](https://img.shields.io/badge/-RAG-FF6F00?style=flat&logo=none) ![LangGraph](https://img.shields.io/badge/-LangGraph-005571?style=flat&logo=langchain&logoColor=white) ![LangChain](https://img.shields.io/badge/-LangChain-121011?style=flat&logo=langchain&logoColor=white) ![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat&logo=pytorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat&logo=tensorflow&logoColor=white) ![Keras](https://img.shields.io/badge/-Keras-D00000?style=flat&logo=keras&logoColor=white) ![Scikit-learn](https://img.shields.io/badge/-Scikit%20Learn-F7931E?style=flat&logo=scikit-learn&logoColor=white) 
 
-### 🔬 Scientific Computing & HPC
+<!-- ### 🔬 Scientific Computing & HPC -->
 ![Linux and HPC](https://img.shields.io/badge/-HPC-FCC624?style=flat&logo=linux&logoColor=black) ![Quantum Chemistry](https://img.shields.io/badge/-Quantum%20Chemistry-2CA02C?style=flat)  ![Computational Chemistry](https://img.shields.io/badge/-Computational%20Chemistry-2CA02C?style=flat) ![Statistical Analysis & Data Modeling](https://img.shields.io/badge/-Statistical%20Analysis%20%26%20Data%20Modeling-3776AB?style=flat&logo=none&logoColor=white) ![RDKit](https://img.shields.io/badge/-RDKit-2CA02C?style=flat) 
 
 ### 📊 Data Engineering & Visualization
