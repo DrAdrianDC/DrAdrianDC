@@ -1,8 +1,8 @@
 # 👋 Hi, I’m Adrian Dominguez-Castro, Ph.D.
 
-**Senior Data Scientist | Machine Learning Researcher | AI for Science**
+**Principal Data Scientist | Machine Learning Researcher | AI for Science**
 
-I am a **Senior Data Scientist | Machine Learning Researcher** specializing in bridging the gap between fundamental science and real-world applications. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, and **Machine Learning**,  I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data.
+I am a **Principal Data Scientist | Machine Learning Researcher** specializing in bridging the gap between fundamental science and real-world applications. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, and **Machine Learning**,  I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents (LangGraph)**, and automated pipelines for high-dimensional scientific data.
 
 ---
 
