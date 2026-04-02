@@ -2,7 +2,7 @@
 
 **Data Scientist | AI & ML Engineer**
 
-I am a **Data Scientist | AI & ML Engineer** specializing in bridging the gap between fundamental science and real-world applications. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, and **Machine Learning**,  I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents)**, and automated pipelines for high-dimensional scientific data.
+I am a **Data Scientist | AI & ML Engineer** specializing in bridging the gap between fundamental science and real-world applications. With a **Ph.D. in Physics** and a background in **Computational Chemistry**, and **Machine Learning**,  I focus on building scalable discovery systems through advanced **RAG architectures**, **AI Agents**, and automated pipelines for high-dimensional scientific data.
 
 ---
 
