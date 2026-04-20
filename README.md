@@ -23,7 +23,7 @@ Through my independent practice, **ADC Scientific Consulting**, I architect end-
 
 ### 🎓 Background
 * **Postdoctoral Research Scientist** | Vanderbilt University, USA.
-* **Ph.D. in Physics (Dr. rer. nat.)** | University of Bremen, Germany.
+* **Ph.D. in Theoretical Physics (Dr. rer. nat.)** | University of Bremen, Germany.
 * **B.Sc. in Radiochemistry** | InSTEC, University of Havana, Cuba.
 
 ---
